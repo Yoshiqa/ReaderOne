@@ -1,0 +1,11 @@
+.venv/
+screen/
+*.png
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+.mypy_cache/
+.pytest_cache/
